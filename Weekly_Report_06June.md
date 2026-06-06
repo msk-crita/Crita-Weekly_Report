@@ -33,14 +33,14 @@
 - **What I did:**  Onboarding Flow Testing (except performance testing)
 - **Total Testcases:** 23
 - **Tools used:** Postman, Claude, chatgpt
-- **Status:** 🔄 In Progress
+- **Status:** ✅ Done
 
 #### 2. **VELOCEEXCH-31** (Started Login Module)
 
 - **What I did:**  Login Flow Testing (except performance testing)
 - **Total Testcases:** 21
 - **Tools used:** Postman, Claude, chatgpt
-- **Status:** 🔄 In Progress
+- **Status:** ✅ Done
 
 ---
 
@@ -66,9 +66,9 @@
 #### 1. **VELOCEEXCH-30, VELOCEEXCH-31** (Performance testing for both endpoints)
 
 - **What I did:**  Tested performance of each endpoint. (load test, breakpoint test)
-- **Total Testcases:** -
+- **Total Testcases:** 75 user (Load test)
 - **Tools used:** JMeter, Claude, chatgpt
-- **Status:** 🔄 In Progress
+- **Status:** ✅ Done
 
 ## 🚧 Blockers / Challenges
 
@@ -78,25 +78,32 @@
 
 > ### 📅 Date: 05/06/2026 (FRIDAY)
 
-
+- **What I did:**  Tested performance of each endpoint. (breakpoint test)
+- **Total Testcases:** 100 user
+- **Tools used:** JMeter, Claude, chatgpt
+- **Status:** ✅ Done
 
 ---
 
 ## 🧠 What I Learned
 
-- Filled on Saturday
+- Exposed to real world project for testing.
+- Learnt how to write pre request and post response test scripts.
+- Got a overview on how to work with JMeter for performance testing.
+- Report creation and test case creation.
 
 ---
 
-
+## 🚧 Blockers / Challenges
+- Encountered wifi issue. Wifi connection was down. (On Thrusday)
 
 ---
 
 ## 📅 Plan for Next Week
 
-- **Will be decided on saturday**
+| Priority | Task | Status |
+|----------|------|--------|
+| 🔴 High | (VELOCEEXCH-54) Complete Users CRUD Operations Testing - Veloce Exchange | ⏳ Pending |
+| 🔴 High | (VELOCEEXCH-56) Users Performance Testing | ⏳ Pending |
 
 ---
-
-## 📎 References / Resources Used
-

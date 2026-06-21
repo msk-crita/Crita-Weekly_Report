@@ -8,7 +8,7 @@
 
 ## ✅ Summary
 
-#### **This will be updated on Saturday.**
+#### This week was primarily focused on API testing and performance testing for the Veloce Exchange Auth Module, covering the Onboard and Login endpoints. Additionally, a client website (Vaanta) was published successfully.
 
 ---
 
@@ -77,6 +77,8 @@
 ---
 
 > ### 📅 Date: 05/06/2026 (FRIDAY)
+
+#### 1. **VELOCEEXCH-30, VELOCEEXCH-31** Performance Testing 
 
 - **What I did:**  Tested performance of each endpoint. (breakpoint test)
 - **Total Testcases:** 100 user
